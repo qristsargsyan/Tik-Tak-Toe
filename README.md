@@ -1,4 +1,4 @@
-# **Tic Tac Toe**
+# 🎮   **Tic Tac Toe**
  
 Tic Tac Toe is a simple yet engaging two-player strategy game implemented as an interactive web app. The current version offers a classic 3x3 board experience with a clean, responsive user interface and smooth gameplay. Designed for fun and educational use, this app can be a great starting point for learning about game logic, UI development, and interactive web applications.
 
@@ -43,7 +43,7 @@ Try the game online:
  👉 [Open demo](https://qristsargsyan.github.io/Tik-Tak-Toe/) 
  
 
-# 🎮 **Development Support**  
+# 🤝  **Development Support**  
 
 This game was developed with the support of the SDH.Global team — experts in custom AI-powered applications, mobile and web app development, and more.
 
