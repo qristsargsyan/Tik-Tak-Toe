@@ -2,7 +2,7 @@
  
 Tic Tac Toe is a simple yet engaging two-player strategy game implemented as an interactive web app. The current version offers a classic 3x3 board experience with a clean, responsive user interface and smooth gameplay. Designed for fun and educational use, this app can be a great starting point for learning about game logic, UI development, and interactive web applications.
 
-🧠 Features
+🧠  **Features**
 Two-player mode on the same device (PvP)
 
 
@@ -22,7 +22,7 @@ Clean and minimal interface for distraction-free play
 
 
 
-🛠️ How to Use
+🛠️  **How to Use**
 
 Run the app:
 
