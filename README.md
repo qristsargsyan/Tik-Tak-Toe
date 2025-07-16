@@ -37,7 +37,7 @@ The game announces the winner or a draw when the game ends.
 
 🧪 Demo
 Try the game online:
- 👉 Open demo 
+ 👉 [Open demo] (https://qristsargsyan.github.io/Tik-Tak-Toe/) 
 
 
 🤝 Development Support
