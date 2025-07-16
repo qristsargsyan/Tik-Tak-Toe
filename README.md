@@ -43,10 +43,7 @@ Try the game online:
  👉 [Open demo](https://qristsargsyan.github.io/Tik-Tak-Toe/) 
  
 
-
-
-
-🤝  **Development Support**
+# 🎮 **Development Support**  
 
 This game was developed with the support of the SDH.Global team — experts in custom AI-powered applications, mobile and web app development, and more.
 
