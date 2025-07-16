@@ -44,7 +44,8 @@ Try the game online:
  
 
 
-🤝  **Development Support**
+
+🤝  **Development Support** # **Tic Tac Toe**
 
 This game was developed with the support of the SDH.Global team — experts in custom AI-powered applications, mobile and web app development, and more.
 
