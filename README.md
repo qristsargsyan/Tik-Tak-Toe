@@ -42,4 +42,4 @@ Try the game online:
 
 🤝 Development Support
 This game was developed with the support of the SDH.Global team — experts in custom AI-powered applications, mobile and web app development, and more.
-If you’re planning to build your own mobile game, web-based app, or interactive platform — whether it's a simple MVP or a fully featured product — consider reaching out to SDH.Global for professional development, design, and scaling support.
+If you’re planning to build your own mobile game, web-based app, or interactive platform — whether it's a simple MVP or a fully featured product — consider reaching out to [SDH.Global](https://sdh.global/) for professional development, design, and scaling support.
