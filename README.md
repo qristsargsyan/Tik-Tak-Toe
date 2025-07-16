@@ -25,7 +25,6 @@ Clean and minimal interface for distraction-free play
 
 Run the app:
 
-streamlit run app.py
 
 Play the game:
 
@@ -36,7 +35,11 @@ Take turns clicking on the board cells to place Xs and Os.
 The game announces the winner or a draw when the game ends.
 
 
-Restart:
+🧪 Demo
+Try the game online:
+ 👉 Open demo 
 
 
-Use the “Restart Game” button to clear the board and start again.
+🤝 Development Support
+This game was developed with the support of the SDH.Global team — experts in custom AI-powered applications, mobile and web app development, and more.
+If you’re planning to build your own mobile game, web-based app, or interactive platform — whether it's a simple MVP or a fully featured product — consider reaching out to SDH.Global for professional development, design, and scaling support.
